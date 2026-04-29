@@ -21,7 +21,7 @@ authors = [
     #todo: list here all authors of your plugin
 ]
 maintainers = [
-    {name = "Name Surname", email = "myname@test.fr"},
+    {name = "Juliana NESPOULOUS", email = "juliana.nespoulous@gmail.com"},
     #todo: list here all maintainers of your plugin
 ]
 
